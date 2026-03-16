@@ -6,3 +6,7 @@
 ! Expires: 0 days
 ! Homepage: https://github.com/cantare-cc/Plus.PlusAdguardJapaneseFilter
 ! UpdateCheck: https://raw.githubusercontent.com/cantare-cc/Plus.PlusAdguardJapaneseFilter/refs/heads/main/Plus!Plus%20AdguardJapanese%20Filter
+!===[Anti!Anti Ad Bloker]=====
+![dicoall.com]
+dicoall.com##div[class^="adblock_adblockModal"]
+dicoall.com##div[class^="adblock_adblockOverlay"]
